@@ -11,7 +11,7 @@ The sauce and rice is made in advance, with the salmon being flash fried to ensu
 
 | Macros       | Timing           | Servings|
 |--------------|------------------|---------|
-| 530 calories | Prep: 1 hour     | Prep: 4 |
+| 530 calories | Prep: 30 minutes | Prep: 4 |
 | 43g protein  | Cook: 15 minutes | Cook: 1 |
 
 ## Why it works

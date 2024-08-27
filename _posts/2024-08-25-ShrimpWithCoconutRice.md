@@ -11,7 +11,7 @@ The salsa and rice are made in advance. The shrimp is cooked quickly for each se
 
 | Macros       | Timing           | Servings|
 |--------------|------------------|---------|
-| 450 calories | Prep: 1 hour     | Prep: 5 |
+| 450 calories | Prep: 30 minutes | Prep: 5 |
 | 47g protein  | Cook: 5 minutes  | Cook: 1 |
 
 ## Why it works
@@ -62,7 +62,7 @@ The Pineapple in the salsa helps add natural sweetness to the dish, and we drain
 1. Use a strainer to drain the juice from the crushed pineapple.
 2. Add the Pineapple, bell pepper, onion, cilantro, serrano peppers, and avocado to a bowl.
 3. Add the lime juice and fish oil, then season with salt and pepper.
-4. Mix all ingredients well and set aside.
+4. Mix all ingredients well, weigh to determine per-serving weight, and set aside.
 
 > Expected total weight is between 750 and 800g
 {: .prompt-info }
