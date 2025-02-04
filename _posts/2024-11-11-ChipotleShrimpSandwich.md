@@ -5,8 +5,8 @@ categories: [recipes, cutting]
 tags: [seafood, mexican, fast]
 ---
 ## At a Glance
+![chipotle-shrimp-sandwich](/assets/img/spicyshrimpsandwich.png){: width="300" height="350" .right }
 Shrimp, chipotle, and avocado come together in this recipe to create a chipotle shrimp sandwich that tastes creamy and bursts with flavor. The prep is fast and the sandwich cooks even faster, making this a great option for a fast macro-friendly lunch.
-
 
 | Macros       | Timing           | Servings|
 |--------------|------------------|---------|

@@ -1,6 +1,6 @@
 ---
 title: Creamy Gojuchang Udon with Chicken
-description: 
+description: Creamy udon and chicken at a fraction of the calories you would normally expect
 categories: [recipes, cutting]
 tags: [japanese, no prep, chicken, noodles, korean]
 ---
