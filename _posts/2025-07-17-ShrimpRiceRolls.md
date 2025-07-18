@@ -5,7 +5,7 @@ categories: [recipes, cutting]
 tags: [chinese, no prep, shrimp, rice, fast]
 ---
 ## At a Glance
-![creamy-udon](/assets/img/ricerolls.png){: width="350" height="300" .right }
+![rice-rolls](/assets/img/ricerolls.png){: width="350" height="300" .right }
 Crazy good macros for delicious shrimp rice rolls that you don't have to feel bad about eating. Note that this recipe requires a steamer.
 
 | Macros       | Timing           | Servings|
@@ -77,5 +77,5 @@ For the sweetness, we go heavier on the oyster sauce and lighter on the sugar, a
 6. Lightly spray the tops of the rolls with more oil, place the plate in your steamer, and place the steamer on the pot of boiling water.
 7. After 6 minutes, remove the steamer from the stove and open the top. DO NOT open the steamer during cooking.
 8. Remove the plate, pour the sauce over the rice rolls, then carefully add an equal amount of chili crisp to each roll.
-> Since rice paper is a bit firmer than traditional rice rolls, it may be easier to use a spoon to eay (no one is judging!)
+Since rice paper is a bit firmer than traditional rice rolls, it may be easier to use a spoon to eay (no one is judging!)
 {: .prompt-info }
