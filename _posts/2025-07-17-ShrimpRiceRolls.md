@@ -1,8 +1,8 @@
 ---
-title: Creamy Gojuchang Udon with Chicken
-description: Creamy udon and chicken at a fraction of the calories you would normally expect
+title: Rice Paper Shrimp Rolls
+description: Dim sum style shrimp rolls that are packed with flavor and protein, and not carbs
 categories: [recipes, cutting]
-tags: [japanese, no prep, chicken, noodles, korean]
+tags: [chinese, no prep, shrimp, rice, fast]
 ---
 ## At a Glance
 ![creamy-udon](/assets/img/ricerolls.png){: width="350" height="300" .right }
