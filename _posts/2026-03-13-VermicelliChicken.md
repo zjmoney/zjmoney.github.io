@@ -5,7 +5,6 @@ categories: [recipes, cutting]
 tags: [vietnamese, chicken, noodles]
 ---
 ## At a Glance
-![vermicelli-chicken](/assets/img/vermicelli.png){: width="350" height="300" .right }
 Sweet and spicy Vietnamese vermicelli bowls that come together in under 10 minutes once the prep is done. The marinade, pickling, and sauces are made in bulk, so multiple servings can be assembled quickly throughout the week.
 
 | Macros       | Timing           | Servings|
